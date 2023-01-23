@@ -176,6 +176,7 @@ section:last-of-type .container {
   filter: brightness(45%) grayscale(1);
   transition: filter 1000ms;
   cursor: pointer;
+  border-radius: 20%;
 }
 
 .project:hover .project-image img,
